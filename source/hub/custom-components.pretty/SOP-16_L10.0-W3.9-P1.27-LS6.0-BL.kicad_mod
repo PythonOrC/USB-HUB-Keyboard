@@ -5,7 +5,7 @@
 	(layer "F.Cu")
 	(descr "SL2.1A")
 	(tags "SL2.1A")
-	(property "Reference" ""
+	(property "Reference" "Ref**"
 		(at 0 0.210027 0)
 		(unlocked yes)
 		(layer "F.SilkS")
@@ -673,4 +673,15 @@
 		(uuid "28047efb-918f-40f6-8d39-b08c7d21171f")
 	)
 	(embedded_fonts no)
+	(model "D:/KiCad/8.0/share/kicad/3dmodels/Package_SO.3dshapes/SOP-16_3.9x9.9mm_P1.27mm.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -90)
+		)
+	)
 )
